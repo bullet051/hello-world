@@ -1,2 +1,2 @@
 # hello-world
-This is a short Python script
+My name is Ken and I'm enjoying learning Python and Git for a code versioning repository.
